@@ -1,6 +1,4 @@
-# upExcelMysql
-
-Subir Archivo de Excel a la base de datos Mysql por PHP
+# Subir Archivo de Excel a la base de datos Mysql por PHP
 
 [es] Subir excel a la base de datos mysql esta configurado para el uso en vtiger pero cualquier sistema lo puede implementar
 
